@@ -1,1 +1,1 @@
-query_id=xxxx
+query_id="{\"id\":6345299604,\"first_name\":\"jp3\",\"last_name\":\"\",\"username\":\"jpku3\",\"language_code\":\"en\",\"allows_write_to_pm\":true}"
